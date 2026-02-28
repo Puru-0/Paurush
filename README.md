@@ -40,7 +40,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puru-0/puru-0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puru-0/puru-0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/puru-0/puru-0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/puru-0/puru-0/output/pacman-contribution-graph.svg](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzIzMTQ5MjcsIm5iZiI6MTc3MjMxNDYyNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI4VDIxMzcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzN2FkNTRlN2Q0ZGQ2ZTE0YTU2NmY3ZjU0OGI5YWNiZjYxMWMzYTc5NTIyNTU5M2ViOTAyMjQxMDEzY2Q0YzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xtGuTuphGSP8GqXshI2lzvfosexpffgxGaVmro3nNnY">
 </picture>
 
 ###
@@ -51,6 +51,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Its about to go down!!</p>
 
 ###
